@@ -1,16 +1,44 @@
-# currency_converter
+# 💱 Currency Converter App
 
-A new Flutter project.
+A sleek and responsive **Currency Converter** app built using **Flutter**, featuring:
 
-## Getting Started
+- Animated UI transitions
+- Custom dropdowns with rounded styling
+- Offline exchange rates for multiple currencies
+- Clear and modular state management
+- Designed using Material 3 theming
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="assets/preview.png" alt="App Screenshot" height='350' width="200"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Features
+
+- 🌐 Offline conversion support for USD, INR, EUR, and JPY
+- 🎨 Clean UI with smooth `AnimatedContainer` and `AnimatedOpacity` transitions
+- 📱 Mobile-first responsive layout
+- 🧠 Input validation and helpful error messages
+- 💡 Built using `StatefulWidget`, no third-party state managers
+
+---
+
+## 🛠️ Technologies Used
+
+- [Flutter](https://flutter.dev/) 3.x
+- Dart language
+- Material 3
+- Animated Widgets (`AnimatedContainer`, `AnimatedOpacity`)
+- VS Code + GitHub Copilot (for code assistance)
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/flutter-currency-converter.git
+cd flutter-currency-converter
